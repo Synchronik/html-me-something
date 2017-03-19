@@ -1,0 +1,119 @@
+body {
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+
+header {
+	text-align: center;
+	font-family: old english text mt;
+	font-size: 6em;
+	padding-bottom: 4%;
+}
+
+div {
+  max-width: 960px;
+  margin: auto;
+}
+
+#dub {
+padding-left: 250px;
+padding-right: 10px;
+
+}
+#sng {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#top {
+	left: 0%;
+	padding-top: 10%;
+	padding-bottom: 60%;
+}
+
+#a {
+	font-family: garamond, edwardian script itc;
+	font-weight: bold;
+	font-size: 3em;
+}
+
+#name {
+	font-family: edwardian script itc;
+	color: red;
+	font-weight: bold;
+	font-size: 1.5em;
+
+}
+
+#g {
+	color: red;
+	font-weight: bold;
+	font-size: 2em;
+	border-color: red;
+	border-style: ridge;
+	border-radius: 45%;
+
+}
+
+p {
+	text-align: center;
+	font-family: garamond;
+	font-size: 2em;
+}
+
+span {
+	font-family: old english text mt;
+	color: red;
+	font-size: 1em;
+{
+
+
+
+#myBtn {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+
+
+
+
+
+
+
+
+
+  /* Style the buttons that are used to open and close the accordion panel */
+button.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+button.accordion.active, button.accordion:hover {
+    background-color: #ddd;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+div.panel {
+    background-color: white;
+    display: none;
+}

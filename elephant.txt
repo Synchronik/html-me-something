@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
+<body>
+<p>Benjamin Howard</p>
+<header><em>The Magnificent Sengi</em></header>
+<main>Behold. The sengi. Its body looks like a shrew's: petite, fur-clad, like a rodent. The same cannot be said for the nose.</main>
+
+ 
+<article></article>
+<footer><em>The Elephant Shrew</em></footer>
+
+</body>
+</html>
